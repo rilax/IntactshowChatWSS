@@ -1,0 +1,6 @@
+com\intactshow\chat\ApiClient.class
+com\intactshow\chat\BaseConnectTimer.class
+com\intactshow\chat\WSClient.class
+com\intactshow\chat\WSServer.class
+com\intactshow\chat\Settings.class
+com\intactshow\chat\Main.class
