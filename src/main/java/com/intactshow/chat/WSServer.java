@@ -63,6 +63,7 @@ public class WSServer extends WebSocketServer {
         return null;
     }
 
+
     public static ArrayList<WSClient> getClients(int id){
         ArrayList<WSClient> list = new ArrayList<>();
         for (int i = 0; i < client.size(); i++){
